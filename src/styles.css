@@ -1,0 +1,12 @@
+/* src/styles.css */
+.tab-content {
+    padding: 20px;
+}
+
+button.active {
+    background-color: #ddd;
+}
+
+.menu-item {
+    margin-bottom: 20px;
+}

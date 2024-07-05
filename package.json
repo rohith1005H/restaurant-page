@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "heyRestaurant": "git subtree push --prefix dist origin gf-pages"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "css-loader": "^7.1.2",
     "html-webpack-plugin": "^5.6.0",
+    "styles-loader": "^4.0.1",
     "webpack": "^5.92.1",
     "webpack-cli": "^5.1.4"
   }

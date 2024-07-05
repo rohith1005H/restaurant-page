@@ -14,7 +14,6 @@ function createHomePage() {
     p3.textContent = "Join us for an evening of gastronomic adventure and let your taste buds dance with joy!";
     
     content.appendChild(h1);
-    content.appendChild(img);
     content.appendChild(p1);
     content.appendChild(p2);
     content.appendChild(p3);
